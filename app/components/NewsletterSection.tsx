@@ -24,7 +24,7 @@ export default function NewsletterSection() {
         <section className="max-w-7xl w-full mx-auto px-4 sm:px-6 py-10 sm:py-16">
             <div className="bg-lime-400 border-2 border-black rounded-[2.5rem] px-6 sm:px-10 py-12 sm:py-16 text-center">
                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-black">
-                    Join the Aether Community
+                    Join the Leafy Community
                 </h2>
                 <p className="text-black/70 mt-4 text-sm sm:text-base max-w-xl mx-auto leading-relaxed">
                     Sign up today and receive our exclusive plant care handbook, secret nurturing guides, and 15% off your first checkout.

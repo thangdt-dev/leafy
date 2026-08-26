@@ -62,7 +62,7 @@ export default function Footer() {
                             <span className="w-7 h-7 rounded-full bg-lime-400 flex items-center justify-center text-sm">
                                 🍃
                             </span>
-                            <span className="text-lg font-bold text-black">Aether</span>
+                            <span className="text-lg font-bold text-black">Leafy</span>
                         </div>
                         <p className="text-gray-500 text-sm mt-4 leading-relaxed max-w-xs">
                             Integrating nature naturally inside your architecture. Premium carefully-sourced plants, handcrafted planters, and automated maintenance coaching.
@@ -104,7 +104,7 @@ export default function Footer() {
                 {/* Bottom bar */}
                 <div className="border-t border-gray-100 mt-10 sm:mt-12 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
                     <p className="text-gray-500 text-sm order-2 sm:order-1">
-                        Copyright © 2024 Aether. All rights reserved.
+                        Copyright © 2024 Leafy. All rights reserved.
                     </p>
                     <div className="flex items-center gap-6 order-1 sm:order-2">
                         <a href="#" className="text-gray-500 text-sm hover:text-black transition-colors">

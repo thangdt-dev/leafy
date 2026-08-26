@@ -51,7 +51,7 @@ export default function Header() {
                     <span className="w-7 h-7 sm:w-8 sm:h-8 rounded-full bg-lime-400 flex items-center justify-center text-sm sm:text-base">
                         🍃
                     </span>
-                    <span className="text-base sm:text-lg font-bold text-black">Aether</span>
+                    <span className="text-base sm:text-lg font-bold text-black">Leafy</span>
                 </div>
 
                 {/* Right actions */}

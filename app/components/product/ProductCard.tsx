@@ -1,4 +1,3 @@
-// components/ProductCard.tsx
 interface ProductCardProps {
     image: string;
     name: string;

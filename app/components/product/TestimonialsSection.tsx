@@ -5,7 +5,7 @@ import { useRef, useState, useEffect } from "react";
 const testimonials = [
     {
         quote:
-            "My Monstera arrived perfectly packaged and so incredibly vibrant. Aether's care guides have kept it thriving even in my dimly lit apartment!",
+            "My Monstera arrived perfectly packaged and so incredibly vibrant. Leafy's care guides have kept it thriving even in my dimly lit apartment!",
         name: "Elena Rostova",
         role: "Urban Jungle Creator",
         avatar: "https://randomuser.me/api/portraits/women/44.jpg",
@@ -13,7 +13,7 @@ const testimonials = [
     },
     {
         quote:
-            "I recommend Aether to all my interior design clients. The plants are stunning statement pieces, healthy, and the customer experience is unmatched.",
+            "I recommend Leafy to all my interior design clients. The plants are stunning statement pieces, healthy, and the customer experience is unmatched.",
         name: "Marcus Thorne",
         role: "Interior Architect",
         avatar: "https://randomuser.me/api/portraits/men/32.jpg",

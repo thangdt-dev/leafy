@@ -1,5 +1,5 @@
 // components/FeaturedProducts.tsx
-import ProductCard from "./ProductCard";
+import ProductCard from "./product/ProductCard";
 
 const smallProducts = [
     {

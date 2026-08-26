@@ -37,7 +37,7 @@ export default function BrandStorySection() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center">
                 {/* Left: text content */}
                 <div className="order-2 lg:order-1">
-                    <h2 className="text-3xl sm:text-4xl font-bold text-black">Why Aether?</h2>
+                    <h2 className="text-3xl sm:text-4xl font-bold text-black">Why Leafy?</h2>
                     <p className="text-gray-500 mt-4 text-sm sm:text-base leading-relaxed max-w-md">
                         We blend professional garden botany with modern design aesthetics to bring simple, thriving nature right into your sanctuary.
                     </p>
